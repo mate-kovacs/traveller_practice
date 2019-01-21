@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveller", "Traveller\Traveller.csproj", "{FD048ECB-DE66-4C96-93EA-93E2A20C0BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManager", "ClassLibrary1\TravelManager.csproj", "{003E04E1-BEDD-441F-B187-BF933A9A9467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Location", "Location\Location.csproj", "{C3C19B83-8890-4D93-8E94-CD18CCE3E4F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD048ECB-DE66-4C96-93EA-93E2A20C0BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD048ECB-DE66-4C96-93EA-93E2A20C0BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD048ECB-DE66-4C96-93EA-93E2A20C0BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD048ECB-DE66-4C96-93EA-93E2A20C0BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003E04E1-BEDD-441F-B187-BF933A9A9467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E04E1-BEDD-441F-B187-BF933A9A9467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E04E1-BEDD-441F-B187-BF933A9A9467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E04E1-BEDD-441F-B187-BF933A9A9467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C19B83-8890-4D93-8E94-CD18CCE3E4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C19B83-8890-4D93-8E94-CD18CCE3E4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C19B83-8890-4D93-8E94-CD18CCE3E4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C19B83-8890-4D93-8E94-CD18CCE3E4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E73D9A4-A7B6-4534-8C10-0733794ECA92}
+	EndGlobalSection
+EndGlobal
